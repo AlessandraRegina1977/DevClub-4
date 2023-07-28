@@ -11,5 +11,4 @@
 <br>
 <br>
 <h2>No celular</h2>
-
 <imag src="https://github.com/LekaRegina/Easy-Shopping/blob/master/Assents/Captura%20de%20Tela%202023-07-28%20%C3%A0s%2015.30.36%20(1).png?raw=true">
