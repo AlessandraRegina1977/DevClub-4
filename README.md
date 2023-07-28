@@ -10,4 +10,4 @@
 <img src="https://github.com/LekaRegina/Easy-Shopping/blob/master/Assents/c%C3%B3pia%20de%20Captura%20de%20Tela%202023-07-28%20%C3%A0s%2015.29.28.png?raw=true">
 <br>
 <br>
-
+<h2>No celular</h2>
